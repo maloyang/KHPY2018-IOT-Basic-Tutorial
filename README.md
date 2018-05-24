@@ -41,8 +41,7 @@
 
 - 溫溼度感測器 (50分鐘)
     - 基本量測練習 (10分鐘)
-    - 溫度鴨實作 (溫度感測器+蜂鳴器) (40分鐘)
-    ![溫度鴨](https://s.yimg.com/ut/api/res/1.2/kpDKLsamvN5nuUvAiaFXsg--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTYwMDtxPTgxO3c9NjAw/https://s.yimg.com/sw/ps_image_prod/item/p09073350080-item-1515xf3x0270x0270-m.jpg)
+    - 溫度鴨玩具功能實作 (溫度感測器+蜂鳴器) (40分鐘)
 
 - ----中餐 12:00~13:00 ----
 
